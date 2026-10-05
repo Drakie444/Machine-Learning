@@ -70,6 +70,6 @@ To run inference on ESP32 without C++ compilation or heavy TensorFlow Lite runti
 * [x] Feature selection for standalone local sensors.
 * [x] Model training and hyperparameter optimization.
 * [x] Weight export to JSON for MicroPython.
-* [ ] Hardware assembly (ESP32 + BME280).
-* [ ] MicroPython driver integration & sensor reading loop.
-* [ ] Field testing & live prediction validation.
+* [x] Hardware assembly (ESP32 + BME280).
+* [x] MicroPython driver integration & sensor reading loop.
+* [x] Field testing & live prediction validation.
